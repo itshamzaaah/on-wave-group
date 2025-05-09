@@ -1,6 +1,6 @@
-# Project Title
+ClickFit
 
-This is Full Stack Project
+The website will be a sport website, with some fitness things.
 
 ## 🛠 Prerequisites
 
