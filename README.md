@@ -12,6 +12,6 @@ The website will be a sport website, with some fitness things.
 Clone the repository and install dependencies.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/itshamzaaah/on-wave-group.git)
 cd click-fit
 npm install
